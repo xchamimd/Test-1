@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./YOUR_IMAGE_NAME.jpg" width="100%" height="auto" alt="xCHAMi MD">
+  <img src="./images/alive.png" width="100%" height="auto" alt="xCHAMi MD">
 
   <h1>⛩️xCHAMi MD⛩️</h1>
   
