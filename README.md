@@ -1,9 +1,8 @@
-# Test-1
 <div align="center">
   
   <img src="./YOUR_IMAGE_NAME.jpg" width="100%" height="auto" alt="xCHAMi MD">
 
-  <h1>⛩️ xCHAMi MD ⛩️</h1>
+  <h1>⛩️xCHAMi MD⛩️</h1>
   
   <p>The Ultimate WhatsApp Bot with Cursed Energy</p>
 
@@ -51,7 +50,7 @@
         End-to-End Encrypted & Safe.
       </td>
       <td align="center" width="33%">
-        <img src="https://github.com/xchamimd/Test-1/blob/ec318cdbe6371b689b7e8c867e7f8b358e09b73a/images/alive.png" width="50px"><br>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px"><br>
         <b>Stylish Theme</b><br>
         Dark & Red Jujutsu Kaisen Style.
       </td>
