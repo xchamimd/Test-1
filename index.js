@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `xCHAMi-MD connected ✅\n\nPREFIX: ${prefix}`; // නම වෙනස් කරන ලදී
       await danuwa.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` }, // මෙතනට ඔයාගේ Logo එකේ ලින්ක් එක දාන්න පුළුවන්
+        image: { url: `https://github.com/xchamimd/Test-1/blob/ec318cdbe6371b689b7e8c867e7f8b358e09b73a/images/alive.png?raw=true` }, // මෙතනට ඔයාගේ Logo එකේ ලින්ක් එක දාන්න පුළුවන්
         caption: up
       });
 
