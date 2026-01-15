@@ -4,14 +4,14 @@ const getFbVideoInfo = require("@xaviabot/fb-downloader");
 cmd(
   {
     pattern: "fb",
-    alias: ["facebook"],
+    alias: ["facebook", "fb"],
     react: "✅",
     desc: "Download Facebook Video",
     category: "download",
     filename: __filename,
   },
   async (
-    danuwa,
+    xCHAMi,
     mek,
     m,
     {
@@ -63,7 +63,7 @@ Your fb video
 👻 *Quality*: ${qualityText}
 `;
 
-      await danuwa.sendMessage(
+      await xCHAMi.sendMessage(
         from,
         {
           image: {
@@ -74,7 +74,7 @@ Your fb video
         { quoted: mek }
       );
 
-      await danuwa.sendMessage(
+      await xCHAMi.sendMessage(
         from,
         {
           video: { url: bestQualityUrl },
